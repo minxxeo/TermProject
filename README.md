@@ -7,11 +7,11 @@ Purpose: Due to the era of SNS, which takes, posts, and shares photos and videos
 opencv-python
 numpy
   
-<running method>
+\<running method>
 It recognizes the face and eyes by using 'haarcascade_frontalface_default.xml' and 'haarcascade_eye.xml'.\n
 Redefine the image through resize and mosaic the face.
   
-\<reference data>
+\<reference data\>
 
 https://ponyozzang.tistory.com/599
 https://github.com/devGyu97/opencv-face-recognition/blob/main/test.py
