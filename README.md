@@ -8,10 +8,12 @@ opencv-python
 numpy
   
 \<running method>
-It recognizes the face and eyes by using 'haarcascade_frontalface_default.xml' and 'haarcascade_eye.xml'.\n
+It recognizes the face and eyes by using 'haarcascade_frontalface_default.xml' and 'haarcascade_eye.xml'.
+ 
 Redefine the image through resize and mosaic the face.
   
 \<reference data\>
 
-https://ponyozzang.tistory.com/599 \
+https://ponyozzang.tistory.com/599 
+  
 https://github.com/devGyu97/opencv-face-recognition/blob/main/test.py
