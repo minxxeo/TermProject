@@ -1,10 +1,13 @@
 # TermProject : Face recognition and mosaic processing
-Project Description: Recognize faces in images or photos and automatically
+\<Project Description>
+Recognize faces in images or photos and automatically
 
-Purpose: Due to the era of SNS, which takes, posts, and shares photos and videos regardless of time and place, the number of cases of portrait rights infringement is increasing, so we developed an open source sw to prevent it.
+\<Purpose> 
+Due to the era of SNS, which takes, posts, and shares photos and videos regardless of time and place, the number of cases of portrait rights infringement is increasing, so we developed an open source sw to prevent it.
 
-<package and version>
-opencv-python
+\<package and version> 
+opencv-python 
+
 numpy
   
 \<running method>
