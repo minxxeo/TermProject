@@ -9,6 +9,8 @@ Due to the era of SNS, which takes, posts, and shares photos and videos regardle
 *opencv-python*  
 *numpy*
   
+\<Test Example>  
+
 \<Running method>  
 It recognizes the face and eyes by using 'haarcascade_frontalface_default.xml' and 'haarcascade_eye.xml'.  
 Redefine the image through resize and mosaic the face.
