@@ -6,8 +6,8 @@ Recognize faces in images or photos and automatically
 Due to the era of SNS, which takes, posts, and shares photos and videos regardless of time and place, the number of cases of portrait rights infringement is increasing, so we developed an open source sw to prevent it.
 
 \<Package and Version>  
-opencv-python  
-numpy
+*opencv-python*  
+*numpy*
   
 \<Running method>  
 It recognizes the face and eyes by using 'haarcascade_frontalface_default.xml' and 'haarcascade_eye.xml'.  
