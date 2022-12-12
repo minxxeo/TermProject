@@ -9,7 +9,8 @@ Due to the era of SNS, which takes, posts, and shares photos and videos regardle
 *opencv-python*  
 *numpy*
   
-\<Test Example>  
+\<Test Example>
+![]https://github.com/minxxeo/TermProject/blob/main/mamamoo.jpg
 
 \<Running method>  
 It recognizes the face and eyes by using 'haarcascade_frontalface_default.xml' and 'haarcascade_eye.xml'.  
