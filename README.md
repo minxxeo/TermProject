@@ -10,7 +10,7 @@ Due to the era of SNS, which takes, posts, and shares photos and videos regardle
 *numpy*
   
 \<Test Example>  
-![https://github.com/minxxeo/TermProject/blob/main/mamamoo.jpg]
+![Example Image](https://github.com/minxxeo/TermProject/commit/0d2ed04d4edefacec13a0df09ec6f1968cffb6e2#diff-3f8622c2567713163e9d2cff2cc06b47407364ffeadcb74ee51d34b7c768b4f8)
 
 \<Running method>  
 It recognizes the face and eyes by using 'haarcascade_frontalface_default.xml' and 'haarcascade_eye.xml'.  
